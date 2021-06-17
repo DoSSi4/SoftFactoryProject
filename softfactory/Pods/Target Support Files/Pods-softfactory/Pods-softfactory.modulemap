@@ -1,0 +1,6 @@
+framework module Pods_softfactory {
+  umbrella header "Pods-softfactory-umbrella.h"
+
+  export *
+  module * { export * }
+}
