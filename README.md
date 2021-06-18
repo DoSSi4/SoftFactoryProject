@@ -17,7 +17,7 @@ User Manual
 
 
 Technical Aspects: 
-1) xCode 12, Swift 5
+1) xCode 12, Swift 5 (UIKit)
 2) CocoaPods (Firebase, FirebaseAuth) frameworks
 3) Database: Google Firebase
 
