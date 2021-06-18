@@ -18,8 +18,8 @@ User Manual
 
 Technical Aspects: 
 1) xCode 12, Swift 5
-2) CocoaPods (Firebase, FirebaseAuth)
-3) iPhone 11 emulator (MacBook Air 2021)
+2) CocoaPods (Firebase, FirebaseAuth) frameworks
+3) Database: Google Firebase
 
 
 
