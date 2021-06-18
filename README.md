@@ -10,10 +10,10 @@ The target audience is cafe / restaurant customers, restaurant business owners
 
 User Manual
 1) Scan the check using QR-code on tables
-2)Choose splitting method (Split bill/Pay in full)
-3)Split bill by selecting the number of persons (2-5 persons)
-4)Fill the required fields to splitting the bill (Name, Phone number)
-5)Request to pay (SMS message with payment link)
+2) Choose splitting method (Split bill/Pay in full)
+3) Split bill by selecting the number of persons (2-5 persons)
+4) Fill the required fields to splitting the bill (Name, Phone number)
+5) Request to pay (SMS message with payment link)
 
 
 Technical Aspects: 
